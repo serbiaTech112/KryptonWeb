@@ -1,2 +1,1 @@
-# KryptonWeb
-This is a Krypton Websites Repository
+License : CC BY NC
