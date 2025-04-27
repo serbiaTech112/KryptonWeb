@@ -1,1 +1,1 @@
-This is a Krypton Developers Industry Text Based Website
+This is a Krypton Doftware Text Based Webpage
